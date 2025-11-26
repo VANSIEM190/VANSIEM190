@@ -12,9 +12,9 @@
 
 - 🌱 J'apprends actuellement **youtube**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [temporairement insdisponible](temporairement insdisponible)
+- 👨‍💻 Tous mes projets sont disponibles sur **Github**
 
-- 📝 J'écris régulièrement des articles sur [temporairement insdisponible](temporairement insdisponible)
+- 📝 veux tu rejoindre ma communauté : **https://vansiem-community-clipnest.vercel.app/**
 
 - 💬 Posez-moi des questions sur **react, javascript, typescript, c, firebase, tailwindcss, html, css, bootstrap, nodejs, mysql**
 
