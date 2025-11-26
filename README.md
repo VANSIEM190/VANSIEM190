@@ -1,4 +1,4 @@
-<img src="[https://komarev.com/ghpvc/?username=vansiem190&label=Profile%20views&color=0e75b6&style=flat](https://dribbble.com/shots/3918529-City-Lights-Syntax-Theme)" alt="vansiem190" /> 
+<img src="https://dribbble.com/shots/3918529-City-Lights-Syntax-Theme" alt="vansiem190" /> 
 
 <h3 align="center">Un développeur front-end passionné originaire du Congo RDC</h3>
 
