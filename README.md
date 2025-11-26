@@ -2,7 +2,7 @@
 
 <h3 align="center">Un développeur front-end passionné originaire du Congo RDC</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vansiem190&label=Profile%20views&color=0e75b6&style=flat" alt="vansiem190" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vansiem190&label=Profile%20views&color=0e75b6&style=flat" alt="vansiem190" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vansiem190" alt="vansiem190" /></a> </p>
 
