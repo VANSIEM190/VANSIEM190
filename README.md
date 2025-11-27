@@ -1,4 +1,4 @@
-<p align="center"><img  src="https://github.com/VANSIEM190/VANSIEM190/blob/main/original-2942eb32d3fb2b62c9f4a9d112c30f2b.webp" alt="vansiem190" width="100%"/> </p>
+<p align="center"><img  src="https://github.com/VANSIEM190/VANSIEM190/blob/main/original-2942eb32d3fb2b62c9f4a9d112c30f2b.webp" alt="vansiem190" width="100%" height="30%"/> </p>
 
 <h3 align="center">Un développeur front-end passionné originaire du Congo RDC</h3>
 
