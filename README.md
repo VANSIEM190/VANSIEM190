@@ -8,15 +8,16 @@
 
 <p align="left"> <a href="https://twitter.com/@graciasiem42517" target="blank"><img src="https://img.shields.io/twitter/follow/@graciasiem42517?logo=twitter&style=for-the-badge" alt="@graciasiem42517" /></a> </p>
 
-- 🔭 Je travaille actuellement sur [infogenuis-AI](github)
+- 🔭 Je travaille actuellement sur [CS-sacre-coeur-de-jesus
+](github)
 
-- 🌱 J'apprends actuellement **youtube**
+- 🌱 J'apprends actuellement **Python**
 
 - 👨‍💻 Tous mes projets sont disponibles sur **Github**
 
 - 📝 veux tu rejoindre ma communauté : **https://vansiem-community-clipnest.vercel.app/**
 
-- 💬 Posez-moi des questions sur **react, javascript, typescript, c, firebase, tailwindcss, html, css, bootstrap, nodejs, mysql**
+- 💬 Posez-moi des questions sur **react, javascript, typescript, firebase, tailwindcss, html, css, bootstrap, nodejs, mysql**
 
 - 📫 Comment me contacter : **vansiemgracia03@gmail.com**
 
