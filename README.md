@@ -28,7 +28,7 @@
 <a href="https://twitter.com/@graciasiem42517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@graciasiem42517" height="30" width="40" /></a>
 <a href="https://fb.com/gracia.saint.van.s" target="blank"><img align="center" <a href="https://instagram.com/graciavans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gracia saint van4s" height="30" width="40" /></a>
 <a href="https://instagram.com/graciasainvans190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="graciavans" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/JPZAP7C2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/JPZAP7C2" hauteur="10" largeur="40" /></a>
+<a href="https://discord.gg/https://discord.gg/JPZAP7C2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/JPZAP7C2" /></a>
 </p>
 
 <h3 align="left">Langues et outils :</h3>
