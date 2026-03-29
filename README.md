@@ -1,42 +1,70 @@
-<p align="center"><img  src="https://github.com/VANSIEM190/VANSIEM190/blob/main/original-2942eb32d3fb2b62c9f4a9d112c30f2b.webp" alt="vansiem190" width="100%" height="30%"/> </p>
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6NjB4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1n/M9gbBd9nbJCZ5dzqn6/giphy.gif" width="30px"> Bienvenue chez ClipNestDev
 
-<h3 align="center">Un développeur Full-stack passionné originaire du Congo RDC</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vansiem190&label=Profile%20views&color=0e75b6&style=flat" alt="vansiem190" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vansiem190" alt="vansiem190" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@graciasiem42517" target="blank"><img src="https://img.shields.io/twitter/follow/@graciasiem42517?logo=twitter&style=for-the-badge" alt="@graciasiem42517" /></a> </p>
-
-- 🔭 Je travaille actuellement sur [CS-sacre-coeur-de-jesus
-](github)
-
-- 🌱 J'apprends actuellement **Python**
-
-- 👨‍💻 Tous mes projets sont disponibles sur **Github**
-
-- 📝 veux tu rejoindre ma communauté : **https://vansiem-community-clipnest.vercel.app/**
-
-- 💬 Posez-moi des questions sur **react, javascript, typescript, firebase, tailwindcss, html, css, bootstrap, nodejs, mysql**
-
-- 📫 Comment me contacter : **vansiemgracia03@gmail.com**
-
-- 📄 Découvrez mes expériences [temporairement indisponible](temporairement insdisponible)
-
-<h3 align="left">Contactez-moi :</h3>
-<p align="left">
-<a href="https://twitter.com/@graciasiem42517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@graciasiem42517" height="30" width="40" /></a>
-<a href="https://fb.com/gracia.saint.van.s" target="blank"><img align="center" <a href="https://instagram.com/graciavans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gracia saint van4s" height="30" width="40" /></a>
-<a href="https://instagram.com/graciasainvans190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="graciavans" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/JPZAP7C2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/JPZAP7C2" height="3%" width="5%"/></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Moi+c'est+Van'siem;L'Âme+de+ClipNestDev;Apprendre+le+Code+en+2026;UI%2FUX+Design+%26+Web+Dev" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Langues et outils :</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vansiem190&show_icons=true&locale=en&layout=compact" alt="vansiem190" /></p>
+### 🚀 À propos de moi (Van'siem)
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vansiem190&show_icons=true&locale=en" alt="vansiem190" /> -->
+"Où le Design rencontre la Performance. Je ne me contente pas de coder, je conçois l'avenir du Web, une ligne à la fois."
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vansiem190" alt="vansiem190" /></p>
+✨ **Qui suis-je ?**
+Je suis **Van'siem**, le moteur derrière **ClipNestDev**. Passionné par l'écosystème web moderne, je me spécialise dans le développement Fullstack et l'UI/UX Design. Mon objectif est simple : allier la puissance technique à l'élégance visuelle.
 
+🎯 **Ma Vision 2026**
+Dans un monde où l'IA et le Web progressent à une vitesse fulgurante, je prône un code propre, accessible et visuellement captivant. Que ce soit à travers une architecture complexe sous React ou des contenus éducatifs percutants, l'excellence utilisateur reste ma priorité absolue.
+
+🛠️ **Ce que je fais**
+* **Design & Prototypage :** Conception d'interfaces haute fidélité sur Figma et Canva.
+* **Frontend Magic :** Création d'interfaces réactives avec React, TypeScript et Tailwind CSS (expert en Glassmorphism).
+* **Backend & Data :** Mise en place d'architectures scalables avec Node.js, MySQL, et gestion via Prisma, Firebase ou Supabase.
+* **Partage de Savoir :** Création de tutoriels et ressources Open Source pour propulser la communauté des développeurs.
+
+💬 **Ma Devise**
+> "Transformer l'imagination en binaire, et le binaire en art."
+
+---
+
+### 🛠️ Ma Stack Technologique
+<p align="left">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/canva-%23E72429.svg?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/node.js-%235FA04E.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-%23DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+---
+
+### 📫 Me contacter / Me suivre
+* 🌍 **Site Web :** [clipnestdev.tech](https://clipnestdev.tech)
+* 📺 **YouTube :** [ClipNestDev](https://bit.ly/clipnestDev)
+* 💬 **Discord :** [Communauté ClipNestDev](https://discord.gg/9AfP9Xwr)
+* 📱 **TikTok :** [@clipnestdev](https://www.tiktok.com/@clipnestdev)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=clipnestDev&show_icons=true&theme=radical" alt="Stats de Van'siem" />
+</p>
+
+<p align="center">
+  <b>⭐ "Coder, c'est l'art de transformer l'imaginaire en binaire." - Van'siem</b>
+</p>
