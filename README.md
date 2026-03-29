@@ -54,10 +54,12 @@ Dans un monde où l'IA et le Web progressent à une vitesse fulgurante, je prôn
 ---
 
 ### 📫 Me contacter / Me suivre
-* 🌍 **Site Web :** [clipnestdev.tech](https://clipnestdev.tech)
-* 📺 **YouTube :** [ClipNestDev](https://bit.ly/clipnestDev)
-* 💬 **Discord :** [Communauté ClipNestDev](https://discord.gg/9AfP9Xwr)
-* 📱 **TikTok :** [@clipnestdev](https://www.tiktok.com/@clipnestdev)
+<p align="left">
+  <a href="https://web.facebook.com/gracia.saint.van.s"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/graciasainvans190"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://x.com/GraciaSiem42517"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="mailto:infogenuisai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
