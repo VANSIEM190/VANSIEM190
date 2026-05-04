@@ -6,14 +6,14 @@
 
 ---
 
-### 🚀 À propos de moi (Van'siem)
+###  À propos de moi (Van'siem)
 
 "Où le Design rencontre la Performance. Je ne me contente pas de coder, je conçois l'avenir du Web, une ligne à la fois."
 
-✨ **Qui suis-je ?**
+ **Qui suis-je ?**
 Je suis **Van'siem**, le moteur derrière **ClipNestDev**. Passionné par l'écosystème web moderne, je me spécialise dans le développement Fullstack et l'UI/UX Design. Mon objectif est simple : allier la puissance technique à l'élégance visuelle.
 
-🎯 **Ma Vision 2026**
+ **Ma Vision 2026**
 Dans un monde où l'IA et le Web progressent à une vitesse fulgurante, je prône un code propre, accessible et visuellement captivant. Que ce soit à travers une architecture complexe sous React ou des contenus éducatifs percutants, l'excellence utilisateur reste ma priorité absolue.
 
 🛠️ **Ce que je fais**
@@ -22,7 +22,7 @@ Dans un monde où l'IA et le Web progressent à une vitesse fulgurante, je prôn
 * **Backend & Data :** Mise en place d'architectures scalables avec Node.js, MySQL, et gestion via Prisma, Firebase ou Supabase.
 * **Partage de Savoir :** Création de tutoriels et ressources Open Source pour propulser la communauté des développeurs.
 
-💬 **Ma Devise**
+ **Ma Devise**
 > "Transformer l'imagination en binaire, et le binaire en art."
 
 ---
