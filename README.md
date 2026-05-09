@@ -6,21 +6,20 @@
 
 ---
 
-###  À propos de moi (Van'siem)
+# 👨‍💻 Van'siem | Full-Stack Architect & UI/UX Designer
 
-"Où le Design rencontre la Performance. Je ne me contente pas de coder, je conçois l'avenir du Web, une ligne à la fois."
+> **"Où le Design rencontre la Performance."**  
+> Je ne me contente pas de coder, je bâtis des systèmes scalables et des expériences visuelles mémorables, une ligne à la fois.
 
- **Qui suis-je ?**
-Je suis **Van'siem**, le moteur derrière **ClipNestDev**. Passionné par l'écosystème web moderne, je me spécialise dans le développement Fullstack et l'UI/UX Design. Mon objectif est simple : allier la puissance technique à l'élégance visuelle.
+---
 
- **Ma Vision 2026**
-Dans un monde où l'IA et le Web progressent à une vitesse fulgurante, je prône un code propre, accessible et visuellement captivant. Que ce soit à travers une architecture complexe sous React ou des contenus éducatifs percutants, l'excellence utilisateur reste ma priorité absolue.
+### 👤 Qui suis-je ?
+Je suis **Van'siem**, fondateur de **ClipNestDev**. Expert de l'écosystème **React & React Native**, je transforme des idées complexes en solutions fluides. Mon approche combine la rigueur de l'ingénierie logicielle (TypeScript, Prisma) avec l'élégance du design moderne.
 
-🛠️ **Ce que je fais**
-* **Design & Prototypage :** Conception d'interfaces haute fidélité sur Figma et Canva.
-* **Frontend Magic :** Création d'interfaces réactives avec React, TypeScript et Tailwind CSS (expert en Glassmorphism).
-* **Backend & Data :** Mise en place d'architectures scalables avec Node.js, MySQL, et gestion via Prisma, Firebase ou Supabase.
-* **Partage de Savoir :** Création de tutoriels et ressources Open Source pour propulser la communauté des développeurs.
+### 🎯 Vision 2026
+À l'ère de l'IA et du web ultra-rapide, je mise sur le **Clean Code**, l'**Accessibilité** et l'**Évolutivité**. Mon objectif est d'aider les entreprises et la communauté à atteindre l'excellence technique à travers des architectures robustes et du partage de connaissances.
+
+---
 
  **Ma Devise**
 > "Transformer l'imagination en binaire, et le binaire en art."
@@ -52,13 +51,13 @@ Dans un monde où l'IA et le Web progressent à une vitesse fulgurante, je prôn
   <img src="https://img.shields.io/badge/supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-### 🛠️ DevOps & Tools
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
+### ⚙️ DevOps & Workflow
+<p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 ---
 
 ### 📫 Me contacter / Me suivre
