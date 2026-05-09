@@ -6,7 +6,7 @@
 
 ---
 
-# 👨‍💻 Van'siem | Full-Stack Architect & UI/UX Designer
+# 👨‍💻 Van'siem | Full-Stack Architect 
 
 > **"Où le Design rencontre la Performance."**  
 > Je ne me contente pas de coder, je bâtis des systèmes scalables et des expériences visuelles mémorables, une ligne à la fois.
@@ -14,7 +14,7 @@
 ---
 
 ### 👤 Qui suis-je ?
-Je suis **Van'siem**, fondateur de **ClipNestDev**. Expert de l'écosystème **React & React Native**, je transforme des idées complexes en solutions fluides. Mon approche combine la rigueur de l'ingénierie logicielle (TypeScript, Prisma) avec l'élégance du design moderne.
+Je suis **Van'siem**, fondateur de la  **ClipNestDev**. Expert de l'écosystème **React & React Native**, je transforme des idées complexes en solutions fluides. Mon approche combine la rigueur de l'ingénierie logicielle (TypeScript, Prisma) avec l'élégance du design moderne.
 
 ### 🎯 Vision 2026
 À l'ère de l'IA et du web ultra-rapide, je mise sur le **Clean Code**, l'**Accessibilité** et l'**Évolutivité**. Mon objectif est d'aider les entreprises et la communauté à atteindre l'excellence technique à travers des architectures robustes et du partage de connaissances.
