@@ -71,7 +71,7 @@ Je suis **Van'siem**, fondateur de la  chaîne **ClipNestDev**. Expert de l'éco
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clipnestDev&show_icons=true&theme=radical" alt="Stats de Van'siem" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VANSIEM190&show_icons=true&theme=radical" alt="Stats de Van'siem" />
 </p>
 
 <p align="center">
